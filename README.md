@@ -1,7 +1,9 @@
-## Freakadelic Fractals
+# Freakadelic Fractals
 
 Created by Catherine Pollock
+
 Final Project
+
 CS 491: Math, Machines, and Minds
 
 ## Usage
