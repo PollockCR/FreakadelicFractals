@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Freakadelic Fractals}
+## Freakadelic Fractals
 
 Created by Catherine Pollock
 Final Project
